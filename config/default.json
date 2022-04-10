@@ -1,5 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://nik:nik@learning.otues.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret": "some"
-   
-}
